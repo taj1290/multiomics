@@ -11,3 +11,5 @@ Machine Learning Models: Implements various machine learning algorithms to class
 Model Evaluation: Provides comprehensive model evaluation using metrics such as accuracy, precision, recall, F1-score, and ROC-AUC.
 Reproducible Workflow: All code is well-documented and organized to allow easy reproducibility of results.
 This project demonstrates the potential of multiomic data for improving classification tasks in bioinformatics and provides a framework for similar analyses.
+
+![image](https://github.com/user-attachments/assets/ed01128e-9406-4e16-8035-a145013e4e5e)
